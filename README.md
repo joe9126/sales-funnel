@@ -1,7 +1,3 @@
-Certainly! Here's a README text for the "sales-funnel" GitHub repository:
-
----
-
 # Sales Funnel
 
 Welcome to the Sales Funnel project repository! This project is designed to help businesses generate and track sales leads throughout the sales cycle until a deal is successfully closed. 
