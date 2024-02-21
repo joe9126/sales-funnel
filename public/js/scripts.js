@@ -184,8 +184,7 @@ $(document).ready(function(){
          url:"leads/create",
          dataType:"json",
          success:function (data) {
-            //console.log('sales leads');
-           // console.log(data);
+                    
             var i =1;
              $("#opportunitiestable").DataTable({
                  data: data,
